@@ -18,6 +18,7 @@ setup(
             "isort",
             "black",
             "flake8",
+            "flake8-builtins",
             "flake8-bugbear",
             "flake8-comprehensions",
             "flake8-docstrings",
