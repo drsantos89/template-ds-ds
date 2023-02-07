@@ -7,7 +7,7 @@ max-line-length = 88
 # W = pycodestyle warnings
 # B9 = bugbear opinions
 # ISC = implicit str concat
-select = B, C, E, F, W, B9, ISC
+extend-select = A, B, C, D, E, F, W, B9, ISC
 ignore =
     # slice notation whitespace, invalid
     E203
