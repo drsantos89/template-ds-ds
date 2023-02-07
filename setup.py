@@ -1,3 +1,4 @@
+"""Setup file for <templateds>."""
 from setuptools import find_packages, setup
 
 VERSION = "0.0.0"
@@ -18,6 +19,7 @@ setup(
             "isort",
             "black",
             "flake8",
+            "flake8-builtins",
             "flake8-bugbear",
             "flake8-comprehensions",
             "flake8-docstrings",
