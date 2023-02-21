@@ -17,10 +17,10 @@ setup(
     extras_require={
         "dev": [
             "isort",
-            "black",
+            "black[jupyter]",
             "flake8",
-            "flake8-builtins",
             "flake8-bugbear",
+            "flake8-builtins",
             "flake8-comprehensions",
             "flake8-docstrings",
             "mypy",
