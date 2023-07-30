@@ -6,8 +6,8 @@ on:
   pull_request:
 
 jobs:
-  lint:
-    name: Lint
+  static:
+    name: static
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3

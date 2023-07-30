@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/macos,windows,linux,python,visualstudiocode,pycharm
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,linux,python,visualstudiocode,pycharm
+# Created by https://www.toptal.com/developers/gitignore/api/python,pycharm,visualstudiocode,macos,windows,linux
+# Edit at https://www.toptal.com/developers/gitignore?templates=python,pycharm,visualstudiocode,macos,windows,linux
 
 ### Linux ###
 *~
@@ -374,4 +374,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,windows,linux,python,visualstudiocode,pycharm
+# End of https://www.toptal.com/developers/gitignore/api/python,pycharm,visualstudiocode,macos,windows,linux
