@@ -10,7 +10,7 @@ with open("requirements.txt") as f:
 
 with open("requirements-dev.txt") as f:
     required_dev = f.read().splitlines()
-    
+
 setup(
     name="templateds",
     version=VERSION,
